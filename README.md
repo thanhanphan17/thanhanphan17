@@ -6,8 +6,7 @@
 
 ### 💻 &nbsp;About Me
 
-🎓 I'm studying Information Technology at HCMC University of Science.  
-🔭 I am currently working at ZaloPay as Software Engineer.
+🎓 I'm studying Information Technology at HCMC University of Science.
 
 ### 🛠 &nbsp;Tech Stack
 
